@@ -4,6 +4,7 @@ The purpose of this analysis is to use and analyze data on student funding and s
 
 General rule:
 -new is after the 9 graders of Thomas High school math and reading grades have been set to NaN.
+
 -old is the original data without removing the THS 9 graders math and reading grades.
 
 ### Results
